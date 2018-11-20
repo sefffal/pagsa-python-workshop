@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\William\\.julia\\conda\\3\\python.exe",
+    // Command Prompt
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
