@@ -1,0 +1,6 @@
+name: pythonworkshopII
+dependencies:
+  - python=3.6
+  - anaconda # Comes with astropy, numpy, etc!
+  - pip:
+    - black
