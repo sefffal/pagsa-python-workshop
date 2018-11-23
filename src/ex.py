@@ -106,3 +106,16 @@ def show_masked_slice(data_slice, radius_slice, radius_start, radius_stop):
     """
     masked = mask_shell(data_slice, radius_slice, radius_start, radius_stop)
     show_slice(masked)
+
+
+
+my_particle = {
+    'x': 12.0,
+    'y': 13.5,
+    'z': -12.0,
+}
+
+def print_particle(particle_dict):
+    print("x: ", particle_dict['x'])
+    print("y: ", particle_dict['y'])
+    print("z: ", particle_dict['z'])
